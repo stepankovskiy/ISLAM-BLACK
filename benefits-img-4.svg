@@ -1,0 +1,60 @@
+<svg width="144.000000" height="172.000000" viewBox="0 0 144 172" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_250_dd" x="23.000000" y="41.000000" width="98.000000" height="114.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="4.66667"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.35294 0 0 0 0 0.46667 0 0 0 0 0.16863 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<radialGradient id="paint_radial_1_246_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(100 128) rotate(71.7606) scale(46.3276 46.3276)">
+			<stop stop-color="#A4E799"/>
+			<stop offset="1.000000" stop-color="#48D531"/>
+		</radialGradient>
+		<radialGradient id="paint_radial_1_247_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(101.305 41.3051) rotate(71.7606) scale(10.2078 10.2078)">
+			<stop stop-color="#A4E799"/>
+			<stop offset="1.000000" stop-color="#48D531"/>
+		</radialGradient>
+		<radialGradient id="paint_radial_1_248_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(43.3051 80.3051) rotate(71.7606) scale(10.2078 10.2078)">
+			<stop stop-color="#A4E799"/>
+			<stop offset="1.000000" stop-color="#48D531"/>
+		</radialGradient>
+		<radialGradient id="paint_radial_1_249_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(44.8305 117.831) rotate(71.7606) scale(14.9191 14.9191)">
+			<stop stop-color="#A4E799"/>
+			<stop offset="1.000000" stop-color="#48D531"/>
+		</radialGradient>
+		<radialGradient id="paint_radial_1_251_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(93.5424 79.5424) rotate(71.7606) scale(7.85214 7.85214)">
+			<stop stop-color="#A4E799"/>
+			<stop offset="1.000000" stop-color="#48D531"/>
+		</radialGradient>
+		<radialGradient id="paint_radial_1_252_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(107.271 1.27119) rotate(71.7606) scale(3.92607 3.92607)">
+			<stop stop-color="#A4E799"/>
+			<stop offset="1.000000" stop-color="#48D531"/>
+		</radialGradient>
+		<radialGradient id="paint_radial_1_253_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(64.2712 50.2712) rotate(71.7606) scale(3.92607 3.92607)">
+			<stop stop-color="#A4E799"/>
+			<stop offset="1.000000" stop-color="#48D531"/>
+		</radialGradient>
+		<radialGradient id="paint_radial_1_254_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(1.27119 138.271) rotate(71.7606) scale(3.92606 3.92607)">
+			<stop stop-color="#A4E799"/>
+			<stop offset="1.000000" stop-color="#48D531"/>
+		</radialGradient>
+	</defs>
+	<circle id="Ellipse 8" cx="114.500000" cy="142.500000" r="29.500000" fill="url(#paint_radial_1_246_0)" fill-opacity="1.000000"/>
+	<circle id="Ellipse 9" cx="104.500000" cy="44.500000" r="6.500000" fill="url(#paint_radial_1_247_0)" fill-opacity="1.000000"/>
+	<circle id="Ellipse 12" cx="46.500000" cy="83.500000" r="6.500000" fill="url(#paint_radial_1_248_0)" fill-opacity="1.000000"/>
+	<circle id="Ellipse 13" cx="49.500000" cy="122.500000" r="9.500000" fill="url(#paint_radial_1_249_0)" fill-opacity="1.000000"/>
+	<g filter="url(#filter_1_250_dd)">
+		<path id="Vector" d="M71.99 136.94C71.45 136.93 70.91 136.85 70.39 136.69C60.67 133.41 52.21 127.12 46.21 118.7C40.22 110.29 36.99 100.18 37 89.81L37 71.21C37 70.27 37.26 69.36 37.74 68.56C38.23 67.77 38.92 67.13 39.75 66.71L69.74 51.54C70.44 51.18 71.21 51 71.99 51C72.78 51 73.55 51.18 74.24 51.54L104.24 66.71C105.07 67.13 105.76 67.77 106.25 68.56C106.73 69.36 106.99 70.27 106.99 71.21L106.99 89.81C107.05 100.23 103.85 110.39 97.85 118.85C91.85 127.32 83.36 133.65 73.59 136.94C73.06 137.01 72.53 137.01 71.99 136.94ZM46.99 74.34L46.99 89.81C46.99 97.77 49.38 105.55 53.85 112.1C58.31 118.66 64.64 123.69 71.99 126.52C79.35 123.69 85.68 118.66 90.14 112.1C94.6 105.55 97 97.77 96.99 89.81L96.99 74.34L71.99 61.7L46.99 74.34Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<circle id="Ellipse 14" cx="96.000000" cy="82.000000" r="5.000000" fill="url(#paint_radial_1_251_0)" fill-opacity="1.000000"/>
+	<circle id="Ellipse 10" cx="108.500000" cy="2.500000" r="2.500000" fill="url(#paint_radial_1_252_0)" fill-opacity="1.000000"/>
+	<circle id="Ellipse 15" cx="65.500000" cy="51.500000" r="2.500000" fill="url(#paint_radial_1_253_0)" fill-opacity="1.000000"/>
+	<circle id="Ellipse 11" cx="2.500000" cy="139.500000" r="2.500000" fill="url(#paint_radial_1_254_0)" fill-opacity="1.000000"/>
+</svg>
